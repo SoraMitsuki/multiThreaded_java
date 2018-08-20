@@ -1,0 +1,38 @@
+PSA 9
+README
+
+Jiaqi Fan
+cse8bwang
+A12584051
+3/7/2016
+
+Program Description:
+
+In this last program we are required to write out
+  CS8BWANG
+   WINTER
+    2016
+with turtle class's turtle in two parts
+first part is single turtle draw out all the characters by itslef.
+second part is a lot of tutles draw each letter at the same time without wait.
+
+the code for draw out each letter is writtern by us.
+we are using penUp, penDown, move methods to characterize the letter.
+This part really helps if we write down the letters on the paper and count the steps needed to finish the letter.
+
+for extra credit, i changed the color of the letters and added some custom shapes such as hexgram, sword and a symbol from anime "a world that dirty joke does not exist".
+
+
+Short Response:
+
+1. the command m followed by a letter will mark the letter at current position.
+
+2. the command ' + (the letter you marked) will go to that mark.
+
+3. the command 'head -5 filename will show the first five lines, 'tail -5 filename will show the last 5 lines.
+
+4. the command scp will do the work.
+
+5. the Rect class's roString will be called.
+
+6. super() will be called first.
